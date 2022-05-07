@@ -1,7 +1,7 @@
 # Young Leaders Academy v2
 
 <details>
-  <summary>**Table of Contents**</summary>
+  <summary> **Table of Contents** </summary>
   
 1. *What is this app?*
 2. **About this Application**
