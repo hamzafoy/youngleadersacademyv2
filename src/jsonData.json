@@ -1,0 +1,8 @@
+{
+    "renderableContent": [
+        {
+            "duringBusinessHours": "Currently Open!",
+            "outsideBusinessHours": "Currently Closed!"
+        }
+    ]
+}
